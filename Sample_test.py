@@ -8,10 +8,12 @@ tg.Receipt()
 #취한 정도 파악 게임
 # (음성파일은 반드시 웨이브 파일로 업로드 해야합니다.)
 # ex) pronunciation.wav
+#pronunciationApp(Sample).wav 파일 업로드
 tg.PronunciationApp()
 
 
 #사진 벌칙 게임
+#GroupPhotoAnalyzerApp(Sample).jpg 파일 업로드
 tg.GroupPhotoAnalyzerApp()
 
 #사진 기반 인물 퀴즈
