@@ -21,7 +21,7 @@ images = [
     {"image": "IGJ.jpg", "answer": "Person 1"},
     {"image": "hanyang.jpg", "answer": "Person 2"}
 ]
-tg.GuesseGameApp(images)
+tg.GuessePersonGame(images)
 
 #룰렛 벌칙 게임
 tg.RouletteGame(['벌칙1','벌칙2','벌칙3'])
